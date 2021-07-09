@@ -18,4 +18,4 @@ This is a simple web project, deployemnt can be on any webserver or even local f
 
 ### Copyright
 
-2014 Git.Training.
+Git 2021.My.Training.
