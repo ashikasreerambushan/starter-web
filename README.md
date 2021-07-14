@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
 
-Git 2021.My.Training.
+Git 2021.My.Training. All rights reserved.
